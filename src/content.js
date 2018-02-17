@@ -1,3 +1,3 @@
 export default [
-  "BichPhuong"
+  "chán ghê chứ","haiz"
 ];
